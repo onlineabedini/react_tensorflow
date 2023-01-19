@@ -1,0 +1,25 @@
+.main-div {
+    /* border: 1px solid red; */
+}
+
+.form-label {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.input-index {
+    font-weight: bold;
+    color: #00000061;
+    text-align: center;
+}
+
+.form-control {
+    font-weight: bold;
+}
+
+::placeholder {
+    /* Most modern browsers support this now. */
+    color: rgb(154, 154, 154) !important;
+    font-weight: 400;
+}
